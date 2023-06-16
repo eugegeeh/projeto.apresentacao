@@ -7,7 +7,7 @@ Olá, bem-vindo ao meu primeiro projeto de portifólio, ao qual possui três pá
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-# **Ferramentas utilizadas:** <h2>
+# Ferramentas utilizadas:
 * HTML
 * CSS
 * Flex-box
