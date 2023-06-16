@@ -126,7 +126,7 @@ body {
 /* CSS media query dentro de um stylesheet --> */
 @media (max-width: 1250px) {
     .cabecalho {
-        padding: 10% 5%;
+        padding: 10%;
     }
 
     .cabecalho__menu {
