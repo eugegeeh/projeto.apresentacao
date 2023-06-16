@@ -1,7 +1,8 @@
 <h1 aling="center"> Portifólio </h1>
 Olá, bem-vindo ao meu primeiro projeto de portifólio, ao qual possui três páginas: Home, Sobre mim e Currículo, desenvolvido através da Formação Alura: A partir do zero: HTML e CSS para projetos web
 
-![Home do projeto](https://github.com/eugegeeh/projeto.apresentacao/assets/91862134/5024fc96-cd89-450d-8e98-0ed98de76983)
+![Home Marrom](https://github.com/eugegeeh/projeto.apresentacao/assets/91862134/81879116-846a-4caa-900b-f9100e2c1d18)
+
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
