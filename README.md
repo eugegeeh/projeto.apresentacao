@@ -12,5 +12,5 @@ Olá, bem-vindo ao meu primeiro projeto de portifólio.
 * Flex-box
 
 # **Feito por:** <h2>
-# Geovanna Oliveira <h3>
+Geovanna Oliveira <h3>
 Linkedin: <https://www.linkedin.com/in/geovanna-v-85835310b/>
