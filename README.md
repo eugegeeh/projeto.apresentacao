@@ -1,3 +1,5 @@
-# primeiro.projeto.github.io
-Este é meu primeiro projeto, ao qual foi realizado em 3 dias, através de 4 cursos realizados via Alura sobre HTML e CSS.
-Os dados foram extraídos e possuía como base a plataforma FIGMA.
+# projeto.apresentacao
+
+Olá, bem-vindo ao meu primeiro projeto de portifólio.
+![image](https://github.com/eugegeeh/projeto.apresentacao/assets/91862134/5024fc96-cd89-450d-8e98-0ed98de76983)
+
