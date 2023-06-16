@@ -13,5 +13,4 @@ Olá, bem-vindo ao meu primeiro projeto de portifólio.
 
 # **Feito por:** <h2>
 # Geovanna Oliveira <h3>
-[Linkedin]: <https://www.linkedin.com/in/geovanna-v-85835310b/>
-(https://www.linkedin.com/in/geovanna-v-85835310b/)
+Linkedin: <https://www.linkedin.com/in/geovanna-v-85835310b/>
